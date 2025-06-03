@@ -1,0 +1,17 @@
+title:Srn God Rolls
+description:Sir Niemi knows
+
+// Krait - kraitti paras stasis tai paras tatsi siis (pve,god-pve,controller)
+//notes: mw:range tags:pve,god-pve,controller
+dimwishlist:item=2852052802&perks=839105230,679225683,1820235745,124408337
+
+
+// VS Pyroelectric Propellant - Aseen nimi (god-pve)
+//notes: s26 Best tags:god-pve
+dimwishlist:item=4232480042&perks=1431678320,243981275,3966416502
+
+
+// Beloved (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3107853529&perks=1885400500,588594999
+dimwishlist:item=3107853529&perks=1885400500,2717805783
