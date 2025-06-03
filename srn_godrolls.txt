@@ -1,16 +1,7 @@
-title:Srn God Rolls
-description:Sir Niemi knows
-
-// Krait - kraitti paras stasis tai paras tatsi siis (pve,god-pve,controller)
-//notes: mw:range tags:pve,god-pve,controller
-dimwishlist:item=2852052802&perks=839105230,679225683,1820235745,124408337
+title:SirNiemi God Rolls
+description:Meta and utility rolls
 
 
-// VS Pyroelectric Propellant - Aseen nimi (god-pve)
-//notes: s26 Best tags:god-pve
-dimwishlist:item=4232480042&perks=1431678320,243981275,3966416502
-
-
-// Beloved (god-pvp)
-//notes: tags:god-pvp
-dimwishlist:item=3107853529&perks=1482024992,1885400500,4116820839,2717805783
+// Red Tape - 200RPM Lightweight scoutrifle
+//notes:Explosive payload with Attrition Orbs will print orbs twice as fast. EP shot counts as two hits.
+dimwishlist:item=3423493037&perks=1392496348,1431678320,243981275,3038247973
