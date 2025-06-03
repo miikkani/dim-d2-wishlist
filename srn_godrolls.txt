@@ -5,4 +5,4 @@ description:Meta and utility rolls
 // Red Tape - 200RPM Lightweight scoutrifle
 //notes:Explosive payload with Attrition Orbs will print orbs twice as fast. EP shot counts as two hits.
 dimwishlist:item=3423493037&perks=243981275,3038247973
-dimwishlist:item=3423493037&perks=2579169598,2896038713
+dimwishlist:item=3423493037&perks=1392496348,1431678320,243981275,3038247973
