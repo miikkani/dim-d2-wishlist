@@ -6,3 +6,9 @@ description:Meta and utility rolls
 //notes:Explosive payload with Attrition Orbs will print orbs twice as fast. EP shot counts as two hits.
 dimwishlist:item=3423493037&perks=243981275,3038247973
 dimwishlist:item=3423493037&perks=1392496348,1431678320,243981275,3038247973
+
+
+
+//notes:Backfang Gambit arc glaive
+dimwishlist:item=267672635&perks=1431678320,2859149211,2173046394
+dimwishlist:item=267672635&perks=2859149211,2173046394
