@@ -1,5 +1,5 @@
 title:SirNiemi God Rolls
-description:Meta and utility rolls
+description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 
 //testi
 
