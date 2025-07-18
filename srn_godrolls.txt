@@ -5,8 +5,8 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 
 // Edge of Fate s27 weapons -->>
 
-
-// Hawkmoon {
+// Hawkmoon
+//notes: (PvP / Controller): Weapon needs good aim so stability is priority|tags:pvp,controller
 dimwishlist:item=3856705927&perks=1482024992,47981717,1012699414
 dimwishlist:item=3856705927&perks=3661387068,47981717,1012699414
 dimwishlist:item=3856705927&perks=1482024992,699525795,1012699414
