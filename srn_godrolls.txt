@@ -2,6 +2,16 @@ title:SirNiemi God Rolls
 description:Meta and utility rolls
 
 
+// Edge of Fate s27 weapons -->>
+
+// Ulterior Observation 600rpm Machine Gun - stasis
+dimwishlist:item=1079872540&perks=839105230,1431678320,124408337,2848615171,1906137414
+dimwishlist:item=1079872540&perks=124408337,2848615171,1906137414
+
+
+
+////////////////
+// Pre Edge of Fate -->>
 // Red Tape - 200RPM Lightweight scoutrifle
 //notes:Explosive payload with Attrition Orbs will print orbs twice as fast. EP shot counts as two hits.
 dimwishlist:item=3423493037&perks=243981275,3038247973
