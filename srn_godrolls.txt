@@ -5,6 +5,16 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
 
+// Precipial
+dimwishlist:item=367772693&perks=466087222,3267421167,2679249093,1546637391,1906137414
+dimwishlist:item=367772693&perks=2679249093,1546637391
+
+// Sublimation
+dimwishlist:item=1674692344&perks=839105230,1431678320,247725512,2173046394,1906137414
+dimwishlist:item=1674692344&perks=247725512,2173046394
+dimwishlist:item=1674692344&perks=247725512,3038247973
+
+
 // Agape
 dimwishlist:item=4124362340&perks=3017780555,4293542123
 dimwishlist:item=4124362340&perks=3418782618,4293542123
