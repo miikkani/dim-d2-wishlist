@@ -5,6 +5,21 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
 
+// Ahab Char
+dimwishlist:item=1411560894&perks=3017780555,2890807135
+
+
+// Pre Astyanax IV
+dimwishlist:item=471764396&perks=4293542123,2890807135
+dimwishlist:item=471764396&perks=3824105627,2890807135
+dimwishlist:item=471764396&perks=4293542123,3365897133
+dimwishlist:item=471764396&perks=3824105627,3365897133
+//notes:with arrow and string
+dimwishlist:item=471764396&perks=2801223209,16392701,4293542123,2890807135
+dimwishlist:item=471764396&perks=2801223209,16392701,3824105627,2890807135
+dimwishlist:item=471764396&perks=2801223209,16392701,4293542123,3365897133
+dimwishlist:item=471764396&perks=2801223209,16392701,3824105627,3365897133
+
 
 // Sublimation
 dimwishlist:item=1674692344&perks=839105230,1431678320,247725512,2173046394,1906137414
