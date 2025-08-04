@@ -12,6 +12,7 @@ dimwishlist:item=970034755&perks=588594999,2387244414#notes:joo|tags:pvp,control
 // Last Thursday
 //notes:(PvP): 2-taps with high Weapon stat
 dimwishlist:item=3813721211&perks=247725512,1089671869
+//notes:For controller stability
 dimwishlist:item=3813721211&perks=839105230,1885400500,247725512,1089671869
 
 // Ahab Char
