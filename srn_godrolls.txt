@@ -5,6 +5,13 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
 
+
+
+// Last Thursday
+//notes: (PvP): 2-taps with high Weapon stat|tags:pvp
+dimwishlist:item=3813721211&perks=247725512,1089671869
+dimwishlist:item=3813721211&perks=839105230,1885400500,247725512,1089671869
+
 // Ahab Char
 dimwishlist:item=1411560894&perks=3017780555,2890807135
 
