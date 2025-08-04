@@ -5,6 +5,8 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
 
+// Giver's Blessing
+dimwishlist:item=970034755&perks=588594999,2387244414#notes:|tags:pvp,controller
 
 
 // Last Thursday
