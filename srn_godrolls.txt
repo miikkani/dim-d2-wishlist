@@ -5,6 +5,33 @@ description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wi
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
 
+// Phoneutria Fera
+//notes:Normal version
+dimwishlist:item=3496887154&perks=1126264488,4293542123
+dimwishlist:item=3496887154&perks=4190679284,4293542123
+dimwishlist:item=3496887154&perks=1126264488,2679249093
+dimwishlist:item=3496887154&perks=4190679284,2679249093
+
+//notes:Shiny
+dimwishlist:item=3804242792&perks=1126264488,4293542123
+dimwishlist:item=3804242792&perks=4190679284,4293542123
+dimwishlist:item=3804242792&perks=1126264488,2679249093
+dimwishlist:item=3804242792&perks=4190679284,2679249093
+dimwishlist:item=3804242793&perks=1126264488,4293542123
+dimwishlist:item=3804242793&perks=4190679284,4293542123
+dimwishlist:item=3804242793&perks=1126264488,2679249093
+dimwishlist:item=3804242793&perks=4190679284,2679249093
+
+
+
+
+
+
+
+
+
+
+
 // Giver's Blessing
 dimwishlist:item=970034755&perks=588594999,2387244414#notes:joo|tags:pvp,controller
 
