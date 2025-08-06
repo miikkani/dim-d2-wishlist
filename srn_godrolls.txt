@@ -44,6 +44,7 @@ dimwishlist:item=3813721211&perks=839105230,1885400500,247725512,1089671869
 
 // Ahab Char
 dimwishlist:item=1411560894&perks=3017780555,2890807135
+dimwishlist:item=1411560894&perks=2890807135
 
 
 // Pre Astyanax IV
