@@ -1,9 +1,32 @@
 title:SirNiemi God Rolls
 description:Meta and utility rolls. Generate rolls: https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
 
+
+
+////////////////////////////////////
+// Festival of The Lost 2025-->>
+////////////////////////////////////
+
+// Arcane Embrace
+dimwishlist:item=3328019216&perks=1523832109,555281244
+dimwishlist:item=3328019216&perks=25606670,555281244
+dimwishlist:item=3328019216&perks=968510818,555281244
+dimwishlist:item=3328019216&perks=1631667848,555281244
+dimwishlist:item=3328019216&perks=1523832109,3764420437
+dimwishlist:item=3328019216&perks=25606670,3764420437
+dimwishlist:item=3328019216&perks=968510818,3764420437
+dimwishlist:item=3328019216&perks=1631667848,3764420437
+dimwishlist:item=3328019216&perks=1523832109,3708227201
+dimwishlist:item=3328019216&perks=25606670,3708227201
+dimwishlist:item=3328019216&perks=968510818,3708227201
+dimwishlist:item=3328019216&perks=1631667848,3708227201
+
+
 ////////////////////////////////////
 // Edge of Fate s27 weapons -->>
 ////////////////////////////////////
+
+
 
 
 // Faustus Decline
